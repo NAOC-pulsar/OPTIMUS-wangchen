@@ -1,0 +1,17 @@
+name: FAST uncooled UWB
+f1: 1600
+f2: 270
+nchan: 4096
+t0: 0
+t1: 5
+raj: 0
+decj: 0
+tsamp: 64e-6
+useAngle: 0
+gain: 16
+tsys: 70
+nbits: 1
+beamRA0: 4.509914803
+beamDEC0: 0.1534798910
+diameter: 300
+surveyType: 1

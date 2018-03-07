@@ -1,0 +1,18 @@
+name: Parkes system
+f1: 1518
+f2: 1230
+nchan: 64
+t0: 0
+t1: 300
+raj: 0
+decj: 0
+useAngle: 0
+tsamp: 512e-6
+gain: 16
+tsys: 20
+nbits: 1
+beamRA0: 4.37928820043305
+beamDEC0: -0.0575877204459702
+diameter: 300
+surveyType: 2
+

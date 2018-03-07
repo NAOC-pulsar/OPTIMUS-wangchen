@@ -1,0 +1,18 @@
+name: FAST beam 17
+f1: 1450
+f2: 1050
+nchan: 128
+t0: 0
+t1: 300
+raj: 4.38128820043305
+decj: 0.087266462
+useAngle: 0
+tsamp: 512e-6
+gain: 16
+tsys: 20
+nbits: 8
+beamRA0: 4.38010719430587
+beamDEC0: 0.0899949933972845
+diameter: 300
+surveyType: 2
+

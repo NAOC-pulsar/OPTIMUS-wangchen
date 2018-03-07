@@ -1,0 +1,8 @@
+name: J1645-0317
+raj: 4.38528820043305
+decj: -0.0575877204459702
+width: 0.03
+useAngle: 1
+flux: 21e-3
+predictor: t2pred.dat
+

@@ -1,0 +1,4 @@
+name: RFI impulsive
+rfi_file: shi_rfi2.txt
+nrfi: 1000
+rfi_narrowBand: 1300 1306 10 0.3 0.1

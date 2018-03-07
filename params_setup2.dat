@@ -1,0 +1,21 @@
+name: test
+f1: 1518
+f2: 1230
+nchan: 128
+tsamp: 128e-6
+t0: 0
+t1: 300
+raj: 0
+decj: 0
+useAngle: 0
+gain: 16
+tsys: 50
+nbits: 1
+beamRA0: 4.509914803
+beamDEC0: 0.13602659
+diameter: 300
+surveyType: 1
+calAmp: 1
+calFreq: 11.123
+calDuty: 0.3
+

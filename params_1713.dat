@@ -1,0 +1,10 @@
+name: J1713+0747
+raj: 4.510914803
+decj: 0.1534798910
+width: 0.03
+useAngle: 1
+flux: 10.2e-3
+scatter: 0
+dm: 15
+dmSmear: 1
+#nchan: 16
